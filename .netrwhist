@@ -1,4 +1,12 @@
 let g:netrw_dirhistmax  =10
 let g:netrw_dirhistcnt =2
-let g:netrw_dirhist_2='/mnt/c/Users/clopo/AppData/Local/FoundryVTT/Data/systems/ysalis'
-let g:netrw_dirhist_1='/home/adrien/.vimrc'
+let g:netrw_dirhist_2='/home/adrien/.vim'
+let g:netrw_dirhist_1='/mnt/c/Users/clopo/AppData/Local/FoundryVTT/Data/systems/ysalis/module'
+let g:netrw_dirhist_0='/mnt/c/Users/clopo/AppData/Local/FoundryVTT/Data/systems/ysalis'
+let g:netrw_dirhist_9='/mnt/c/Users/clopo/AppData/Local/FoundryVTT/Data/systems/ysalis/lang'
+let g:netrw_dirhist_8='/mnt/c/Users/clopo/AppData/Local/FoundryVTT/Data/systems/ysalis'
+let g:netrw_dirhist_7='/mnt/c/Users/clopo/AppData/Local/FoundryVTT/Data/systems/ysalis/lang'
+let g:netrw_dirhist_6='/mnt/c/Users/clopo/AppData/Local/FoundryVTT/Data/systems/ysalis'
+let g:netrw_dirhist_5='/mnt/c/Users/clopo/AppData/Local/FoundryVTT/Data/systems/ysalis/templates/sheets'
+let g:netrw_dirhist_4='/mnt/c/Users/clopo/AppData/Local/FoundryVTT/Data/systems/ysalis/templates'
+let g:netrw_dirhist_3='/mnt/c/Users/clopo/AppData/Local/FoundryVTT/Data/systems/ysalis'
